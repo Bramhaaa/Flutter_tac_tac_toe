@@ -1,10 +1,7 @@
 # 🎮 Flutter Tic-Tac-Toe
 
-A modern, feature-rich Tic-Tac-Toe game built with Flutter, featuring multiple game modes, AI opponents, and a clean architecture design.
+A modern, feature-rich Tic-Tac-Toe game built with Flutter, featuring multiple game modes, AI opponents
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
-![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🌟 Features
 
@@ -218,23 +215,3 @@ flutter test
 - [ ] Replay system
 - [ ] Statistics and analytics
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Bramhaaa**
-- GitHub: [@Bramhaaa](https://github.com/Bramhaaa)
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design for UI inspiration
-- Open source community for continuous learning
-
----
-
-### ⭐ If you found this project helpful, please give it a star!
-
-**Built with ❤️ using Flutter**
